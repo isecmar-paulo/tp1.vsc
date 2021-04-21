@@ -1,7 +1,4 @@
-package po.leit;
 
-import po.leit.ui.Le;
-import po.leit.ui.MyCommand;
 
 import javax.swing.*;
 import java.io.File;
